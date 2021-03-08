@@ -1,0 +1,14 @@
+- [``MySQL data types``](http://www.mysqltutorial.org/mysql-data-types.aspx) – show you various data types in MySQL so that you can apply them effectively in designing database tables.
+- [``INT``](http://www.mysqltutorial.org/mysql-int/) – show you how to use integer data type. We also show you how to use ZEROFILL and display width attributes of the integer column.
+- [``DECIMAL``](http://www.mysqltutorial.org/mysql-decimal/) – show you how to use DECIMAL data type to store exact values in decimal format.
+- [``BIT``](http://www.mysqltutorial.org/mysql-bit/) – introduce you BIT data type and how to store bit values in MySQL.
+- [``BOOLEAN``](http://www.mysqltutorial.org/mysql-boolean/) – explain to you how MySQL handles Boolean values by using TINYINT(1) internally.
+- [``CHAR``](http://www.mysqltutorial.org/mysql-char-data-type/) – guide to CHAR data type for storing the fixed-length string.
+- [``VARCHAR``](http://www.mysqltutorial.org/mysql-varchar/) – give you the essential guide to VARCHAR data type.
+- [``TEXT``](http://www.mysqltutorial.org/mysql-text/) – show you how to store text data using TEXT data type.
+- [``DATE``](http://www.mysqltutorial.org/mysql-date/) – introduce you to the DATE data type and show you some date functions to handle the date data effectively.
+- [``TIME``](http://www.mysqltutorial.org/mysql-time/) – walk you through the features of TIME data type and show you how to use some useful temporal functions to handle time data.
+- [``DATETIME``](http://www.mysqltutorial.org/mysql-datetime/) – introduce you to the DATETIME data type and some useful functions to manipulate DATETIME values.
+- [``TIMESTAMP``](http://www.mysqltutorial.org/mysql-timestamp.aspx) – introduce you to TIMESTAMP and its features called automatic initialization and automatic update that allows you to define auto-initialized and auto-updated columns for a table.
+- [``JSON``](http://www.mysqltutorial.org/mysql-json/) – show you how to use JSON data type to store JSON documents.
+- [``ENUM``](http://www.mysqltutorial.org/mysql-enum/) – learn how to use ENUM data type correctly to store enumeration values.

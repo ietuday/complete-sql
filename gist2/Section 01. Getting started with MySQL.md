@@ -1,0 +1,4 @@
+This section helps you get started with MySQL. We will start installing MySQL, downloading a sample database, and loading data into the MySQL server for practicing.
+- [Installing MySQL database server](http://www.mysqltutorial.org/install-mysql/) – show you step by step how to install MySQL database server on your computer.
+- [Downloading MySQL sample database](http://www.mysqltutorial.org/mysql-sample-database.aspx) – introduce you to a MySQL sample database named ``classicmodels``. We also provide you links for downloading the sample database and its diagrams.
+- [Loading the sample database into your own MySQL database server](http://www.mysqltutorial.org/how-to-load-sample-database-into-mysql-database-server.aspx) – walk you through steps of how to load the ``classicmodels`` sample database into your MySQL database server for practicing.

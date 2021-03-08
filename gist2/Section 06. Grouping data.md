@@ -1,0 +1,2 @@
+- [``GROUP BY``](http://www.mysqltutorial.org/mysql-group-by.aspx) clause – show you how to group rows into groups based on columns or expressions.
+- [``HAVING``](http://www.mysqltutorial.org/mysql-having.aspx) – filter the groups by a specific condition.

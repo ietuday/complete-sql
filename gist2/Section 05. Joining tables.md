@@ -1,0 +1,7 @@
+- [``MySQL alias``](http://www.mysqltutorial.org/mysql-alias/) – introduce you to table alias and aliases to improve the readability of complex queries.
+- [``MySQL Join``](http://www.mysqltutorial.org/mysql-join/)  – give you an overview of joins supported in MySQL including cross join, inner join, left join, and right join.
+- [``INNER JOIN``](http://www.mysqltutorial.org/mysql-inner-join.aspx) – use inner join clause to query data from multiple related tables.
+- [``LEFT JOIN``](http://www.mysqltutorial.org/mysql-left-join.aspx) – learn how to apply left join clause in various contexts.
+- [``RIGHT JOIN``](http://www.mysqltutorial.org/mysql-right-join/) – show you how to use right join to query data from two or more tables.
+- [``CROSS JOIN``](http://www.mysqltutorial.org/mysql-cross-join/) – make a Cartesian product of rows from multiple tables.
+- [``Self-join``](http://www.mysqltutorial.org/mysql-self-join/) – joins a table to itself using table alias, and connects rows within the same table using other kinds of joins including inner join and left join.

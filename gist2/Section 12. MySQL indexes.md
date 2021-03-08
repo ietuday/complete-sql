@@ -1,0 +1,2 @@
+- [``Managing MySQL database indexes``](http://www.mysqltutorial.org/mysql-create-drop-index.aspx) – learn how to work with MySQL indexes and how to take advantages of indexes to speed up the data retrieval.
+- [``UNIQUE index``](http://www.mysqltutorial.org/mysql-unique/) – show you how to use the ``UNIQUE`` index to enforce the uniqueness of value in one or more columns.

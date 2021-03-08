@@ -1,0 +1,3 @@
+- [``UNION and UNION ALL``](http://www.mysqltutorial.org/sql-union-mysql.aspx) – combine two or more result sets of multiple queries into a single result set.
+- [``INTERSECT``](http://www.mysqltutorial.org/mysql-intersect/) –  show you a couple of ways to simulate the ``INTERSECT`` operator in MySQL.
+- [``MINUS``](http://www.mysqltutorial.org/mysql-minus/) – explain to you the SQL MINUS operator and show you how to simulate it in MySQL.

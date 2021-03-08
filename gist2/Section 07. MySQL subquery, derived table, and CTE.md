@@ -1,0 +1,4 @@
+- [``MySQL subquery``](http://www.mysqltutorial.org/mysql-subquery/) – show you how to nest a query (inner query) within another query (outer query) and use the result of the inner query for the outer query.
+- [``MySQL derived table``](http://www.mysqltutorial.org/mysql-derived-table/) – introduce you the derived table concept and show you how to use it to simplify complex queries.
+- [``MySQL CTE``](http://www.mysqltutorial.org/mysql-derived-table/) – explain you the common table expression concept and show you how to use CTE for querying data from tables.
+- [``Recursive CTE``](http://www.mysqltutorial.org/mysql-recursive-cte/) – guide you how to use the recursive CTE to traverse the hierarchical data.
